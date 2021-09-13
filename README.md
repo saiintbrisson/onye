@@ -1,2 +1,2 @@
-# onye-proxy
-A fast and lightweight Minecraft reverse proxy.
+# onye
+A Minecraft reverse proxy that prioritizes scalability.
